@@ -7,7 +7,7 @@ Portanto ao se cadastrar em sites use sempre senhas fortes e seguras, para ajuda
 
 ## Screenshots
 
-![Desktop](./images/photo.png)
+![App screenshot](https://drive.google.com/file/d/1EHtavt2Udj6d6jFsngX5e6O-thT9pnHd/view?usp=sharing)
 
 
 ## Links
@@ -27,12 +27,12 @@ Link da solução: [https://github.com/AlvaroEmanuel20/password-generate](https:
 
 - Gera automaticamente a senha
 - Pode escolher tamanho da senha
-- Opções que irão aprimorar ela (letras, números e caracteres especiais)
+- Pode escolher as opções para a senha
 
 
 ## Aprendizado
 
-Com esse projeto pude aprimorar minha lógica na criação de algoritmos, além disso exercitei conteúdos como `arrays`, eventos html e repetição.
+Com esse projeto consegui aprimorar minha lógica na criação de algoritmos, além disso exercitei conteúdos como `arrays`, eventos html, repetição, funções e modularização.
 ## Autor
 
 - [Álvaro Emanuel](https://www.github.com/AlvaroEmanuel20)
@@ -41,4 +41,4 @@ Com esse projeto pude aprimorar minha lógica na criação de algoritmos, além 
 ## 🔗 Links
 [![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AlvaroEmanuel20)
 
-Meu site: [alvaroemanuel.com](https://alvaroemanuel.com)
+Meu portfólio: [alvaroemanuel.com](https://alvaroemanuel.com)
