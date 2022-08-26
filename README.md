@@ -5,15 +5,9 @@ A evolução das tecnologias e internet trouxe coisas boas para o mundo, porém 
 
 Portanto ao se cadastrar em sites use sempre senhas fortes e seguras, para ajudar nisso desenvolvi uma ferramenta capaz de gerar senhas fortes automaticamente para você.
 
-## Screenshots
-
-![App screenshot](https://drive.google.com/file/d/1EHtavt2Udj6d6jFsngX5e6O-thT9pnHd/view?usp=sharing)
-
-
 ## Links
 
-Live site: [https://alvaroemanuel20.github.io/password-generate/](https://alvaroemanuel20.github.io/password-generate/)
-
+App ao vivo: [https://alvaroemanuel20.github.io/password-generate/](https://alvaroemanuel20.github.io/password-generate/)
 Link da solução: [https://github.com/AlvaroEmanuel20/password-generate](https://github.com/AlvaroEmanuel20/password-generate)
 ## Construído com
 
