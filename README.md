@@ -7,8 +7,14 @@ Portanto ao se cadastrar em sites use sempre senhas fortes e seguras, para ajuda
 
 ## Links
 
+<<<<<<< HEAD
 App ao vivo: [https://alvaroemanuel20.github.io/password-generate/](https://alvaroemanuel20.github.io/gerador-de-senha/)
 Link da solução: [https://github.com/AlvaroEmanuel20/password-generate](https://github.com/AlvaroEmanuel20/gerador-de-senha)
+=======
+App ao vivo: [https://alvaroemanuel20.github.io/password-generate/](https://alvaroemanuel20.github.io/password-generate/)
+
+Link da solução: [https://github.com/AlvaroEmanuel20/password-generate](https://github.com/AlvaroEmanuel20/password-generate)
+>>>>>>> 46cf7567a8f1351d96a6b23484c6b1f17b65b3d2
 ## Construído com
 
 - HTML
